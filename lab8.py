@@ -18,7 +18,7 @@ if __name__ == '__main__':
     k2 = -0.694
     p1 = -0.0279
     p2 = -0.0058
-
+    # lhfeiwes
     # radial_distortions
     rd1 = np.array([0, k1, k2])
     # decentering distortions
